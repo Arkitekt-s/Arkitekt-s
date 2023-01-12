@@ -36,6 +36,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a> <a href="https://react-query-v3.tanstack.com/" target="_blank" rel="noreferrer"> <img src="https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" alt="react-query" width="40" height="40"/> </a> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
 </p>
+
 [![Soheil's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Arkitekt-s&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arkitekt-s&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Arkitekt-s" /></p>
