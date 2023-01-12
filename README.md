@@ -1,11 +1,11 @@
 
-<a  href="https://arkitekts.dk/">
-    <img  src="https://arkitekts.dk/wp-content/uploads/2022/04/web3.png" style="width:300px; height: 200px;" alt="soheil fattahieh">
-</a>
+
 <h1 align="center">Hi 👋, I'm soheil</h1>
 <h3 align="center">A passionate Full Stack developer from Denmark</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+<a  href="https://arkitekts.dk/">
+    <img  align="right" src="https://arkitekts.dk/wp-content/uploads/2022/04/web3.png" style="width:300px; height: 200px;" alt="soheil fattahieh">
+</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Arkitekt-s&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
@@ -21,6 +21,7 @@
 
 - ⚡ Fun fact **I am Funny**
 
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
