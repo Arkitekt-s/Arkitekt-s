@@ -1,4 +1,7 @@
-[![MasterHead](https://arkitekts.dk/wp-content/uploads/2022/04/web3.png)](https://arkitekts.dk/)
+
+<a  href="https://arkitekts.dk/">
+    <img  src="https://arkitekts.dk/wp-content/uploads/2022/04/web3.png" style="width:300px; height: 200px;" alt="soheil fattahieh">
+</a>
 <h1 align="center">Hi 👋, I'm soheil</h1>
 <h3 align="center">A passionate Full Stack developer from Denmark</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -39,9 +42,7 @@
 
 [![Soheil's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Arkitekt-s&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arkitekt-s&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Arkitekt-s" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Arkitekt-s&show_icons=true&locale=en&theme=tokyonight" alt="Arkitekt-s" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arkitekt-s&&theme=tokyonight" alt="Arkitekt-s" /></p>
+
 
