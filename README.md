@@ -17,7 +17,7 @@
 
 - 💬 my website **https://arkitekts.dk/**
 
-- 📫 How to reach me **sohe0144@stud.kea.dk**
+- 📫 How to reach me **sohe@arkitekts.dk**
 
 - ⚡ Fun fact **I am Funny**
 
