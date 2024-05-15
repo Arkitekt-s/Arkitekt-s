@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently studying  **computer science**
 
-- 🌱 I’m currently learning **App Development with C# <br>and Mobile Development - Android & iOS**
+- 🌱 I’m currently Working on  **App Development - Android & iOS**
 
 - 💬 my website **https://arkitekts.dk/**
 
@@ -40,7 +40,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="springboot" width="40" height="40"/>
 </a>
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/apache-kafka.svg" alt="kafka" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/apache-kafka-1.svg" alt="kafka" width="40" height="40"/>
 </a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
@@ -57,6 +57,7 @@
 <a href="https://zookeeper.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/zookeeper.svg" alt="zookeeper" width="40" height="40"/>
 </a>
+
 
 </p>
 
