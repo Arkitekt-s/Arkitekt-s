@@ -55,7 +55,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 </a>
 <a href="https://zookeeper.apache.org/" target="_blank" rel="noreferrer">
-    <img src="[https://cdn.worldvectorlogo.com/logos/zookeeper.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Apache_ZooKeeper_logo.svg/800px-Apache_ZooKeeper_logo.svg.png)" alt="zookeeper" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Apache_ZooKeeper_logo.svg/800px-Apache_ZooKeeper_logo.svg.png" alt="zookeeper" width="40" height="40"/>
 </a>
 
 
