@@ -40,7 +40,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="springboot" width="40" height="40"/>
 </a>
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/apache-kafka-1.svg" alt="kafka" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/353950/kafka.svg" alt="kafka" width="40" height="40"/>
 </a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
